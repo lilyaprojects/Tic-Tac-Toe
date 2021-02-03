@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "230346814755",
+    "project_id": "tzkl-f41cc",
+    "storage_bucket": "tzkl-f41cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230346814755:android:b8d0ece3baef0d981c8896",
+        "android_client_info": {
+          "package_name": "com.example.tz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230346814755-r02bkh3fj92jfp6kqk1a5uvvntdv0ums.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAusAxybxlR7OuLtHsJvGNL4RHw0-KoW1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230346814755-r02bkh3fj92jfp6kqk1a5uvvntdv0ums.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
